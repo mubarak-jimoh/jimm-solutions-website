@@ -1,56 +1,38 @@
-# JIMM Solutions – Professional Cleaning Services Website
+# JIMM Solutions Website
 
-This repository showcases a website I collaborated on for **JIMM Solutions**, my dad’s professional cleaning business.  
-The project demonstrates my contributions in coding, content creation, layout design, and website testing.
+Case study of the website I helped build for JIMM Solutions, my dad's professional cleaning business in London.
 
----
+**Live site:** https://jimmsolutions.web.app
 
-## 🛠 Skills Used
-- HTML, CSS, JavaScript  
-- Responsive design and layout adjustments  
-- Website testing and debugging  
-- Content creation and structuring for services and About pages  
-- Version control with Git/GitHub  
-- Collaboration and communication in a small team/project setting  
+This repository describes my contributions. The site's source code belongs to JIMM Solutions, so it is not published here.
 
----
+## The project
 
-## 📌 Project Overview
-**JIMM Solutions** provides professional cleaning services for homes and businesses in London.  
-The website includes sections and pages such as:  
-- Home  
-- About Us  
-- Services (Commercial, Residential, Deep Cleaning, Sanitization)  
-- Contact  
+JIMM Solutions provides cleaning services for homes and businesses in London. The site needed to present those services clearly and make it easy for a client to ask for a quote.
 
-The website is designed to present services clearly, make it easy for clients to request quotes, and highlight the company’s professionalism and expertise.
+It has four main sections:
 
----
+- Home
+- About Us
+- Services: commercial, residential, deep cleaning and sanitisation
+- Contact, with a "Get a Quote" form
 
-## 🧩 My Contributions
-- **Front-end development:** Implemented HTML, CSS, and JavaScript features for website functionality  
-- **Content creation & editing:** Wrote and structured content for the Home, About, and Services pages  
-- **Layout assistance:** Helped organize sections and ensure the website is visually clear and responsive  
-- **Form functionality:** Assisted with the “Get a Quote” contact form  
-- **Website testing:** Checked layout, responsiveness, and user experience  
-- **Collaboration:** Worked with my dad to gather business information, images, and service details  
+## What I did
 
----
+- **Front end:** wrote HTML, CSS and JavaScript for the site's pages and features
+- **Content:** wrote and structured the copy for the Home, About and Services pages
+- **Layout:** helped organise the sections so the site reads clearly and works on phones
+- **Quote form:** helped build the "Get a Quote" contact form
+- **Testing:** checked the layout, responsiveness and user experience, and fixed what I found
+- **Working with the client:** gathered the business information, images and service details from my dad
 
-## 🌐 Live Website
-You can view the live website here:  
-[JIMM Solutions Website](https://jimmsolutions.web.app/)
+## What I learned
 
----
+- How to structure and build a site for a real client, where the content has to be right as well as the code
+- How to balance content and design so the page is easy to use
+- How to test, debug and refine a site before it goes live
+- How to work with someone who knows the business but not the technology
 
-## 🧠 What I Learned
-- How to structure and code a professional client-facing website  
-- Balancing content and design to create an engaging user experience  
-- Debugging, testing, and refining website features  
-- Collaboration in a small project/team setting  
-- Using Git/GitHub for version control and project management  
+## Tech
 
----
-
-## ⚠️ Note
-This repository focuses on **my contributions** to the website. The full website is owned by JIMM Solutions.
+HTML, CSS and JavaScript, hosted on Firebase Hosting.
